@@ -1,4 +1,4 @@
 # Integrantes:
-David Luna
+David Luna \n
 Ariel Vargas
 Juan Urgiles
