@@ -19,5 +19,5 @@ por un lado en el caso de creacion de formula devolvera la formula creada por la
 
 
 evidencia :<br>
-![imagen 1]() <br>
-![imagen 2]()
+![imagen 1](https://raw.githubusercontent.com/DavidlunaT/Junit-DS/main/WhatsApp%20Image%202024-01-10%20at%2016.38.46.jpeg) <br>
+![imagen 2](https://raw.githubusercontent.com/DavidlunaT/Junit-DS/main/WhatsApp%20Image%202024-01-10%20at%2017.02.07.jpeg)
